@@ -19,3 +19,5 @@ Key Features:
 News Wave is not just an app; it's a testament to my commitment to creating applications that prioritize user experience and customization. As a portfolio piece, News Wave exemplifies my ability to blend aesthetics with functionality, providing a delightful user journey through the vast landscape of news. Download News Wave today and witness firsthand the future of personalized news consumption!
 
 To get an API_KEY visit https://newsapi.org/
+
+Download the app: https://www.mediafire.com/file/b0jcc4twy77virf/news_wave.apk/file
