@@ -7,10 +7,9 @@ News Wave offers a streamlined experience, putting the power of information at y
 One of News Wave's standout features is its dynamic customization options. Users can easily switch between news categories, tailoring their feed to match their specific interests. From global affairs to local happenings, News Wave enables users to seamlessly explore news stories that resonate with them. Additionally, the app allows users to select their city, ensuring they receive timely updates on relevant local news.
 
 Key Features:
+1-Effortless Headline Browsing: Swipe through a curated list of headlines with ease.
+2-Category Customization: Tailor your news feed by choosing from a variety of categories.
+3-City Selection: Stay connected to local news by selecting your city for personalized updates.
+4-Clean and Intuitive Design: Experience news in a clutter-free environment with a minimalist interface.
 
-Effortless Headline Browsing: Swipe through a curated list of headlines with ease.
-Category Customization: Tailor your news feed by choosing from a variety of categories.
-City Selection: Stay connected to local news by selecting your city for personalized updates.
-Clean and Intuitive Design: Experience news in a clutter-free environment with a minimalist interface.
-Perfect for Portfolios: Showcase your design and development skills with this elegant and functional news app.
 News Wave is not just an app; it's a testament to my commitment to creating applications that prioritize user experience and customization. As a portfolio piece, News Wave exemplifies my ability to blend aesthetics with functionality, providing a delightful user journey through the vast landscape of news. Download News Wave today and witness firsthand the future of personalized news consumption!
