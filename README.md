@@ -1,4 +1,4 @@
-# news_wave
+# News Wave
 
 Introducing News Wave, a showcase news app that exemplifies both elegance and functionality in the realm of information consumption. This minimalist app is crafted specifically for my portfolio, demonstrating my prowess in designing user-centric applications with a focus on intuitive navigation and customization.
 
@@ -6,16 +6,34 @@ News Wave offers a streamlined experience, putting the power of information at y
 
 One of News Wave's standout features is its dynamic customization options. Users can easily switch between news categories, tailoring their feed to match their specific interests. From global affairs to local happenings, News Wave enables users to seamlessly explore news stories that resonate with them. Additionally, the app allows users to select their city, ensuring they receive timely updates on relevant local news.
 
-Key Features:
+## Features
 
-1-Effortless Headline Browsing: Swipe through a curated list of headlines with ease.
+- **Effortless Headline Browsing:** Swipe through a curated list of headlines with ease.
 
-2-Category Customization: Tailor your news feed by choosing from a variety of categories.
+- **Category Customization:** Tailor your news feed by choosing from a variety of categories.
 
-3-City Selection: Stay connected to local news by selecting your city for personalized updates.
+- **City Selection:** Stay connected to local news by selecting your city for personalized updates.
 
-4-Clean and Intuitive Design: Experience news in a clutter-free environment with a minimalist interface.
+- **Clean and Intuitive Design:** Experience news in a clutter-free environment with a minimalist interface.
 
-News Wave is not just an app; it's a testament to my commitment to creating applications that prioritize user experience and customization. As a portfolio piece, News Wave exemplifies my ability to blend aesthetics with functionality, providing a delightful user journey through the vast landscape of news. Download News Wave today and witness firsthand the future of personalized news consumption!
+## Screenshots
 
-To get an API_KEY visit https://newsapi.org/
+<img src="./screenshots/1.jpg" width="250" height="500"> <img src="./screenshots/2.jpg" width="250" height="500"> <img src="./screenshots/3.jpg" width="250" height="500" >
+
+## Getting Started
+
+To get started with the News Wave app, follow these steps:
+
+1. **Prerequisites:** Ensure you have Flutter installed on your system. If not, you can install it from the official Flutter website.
+
+2. **Clone the Repository:** Clone this repository to your local machine using the following command.
+
+3. **Install Dependencies:** Navigate to the project directory and install the required dependencies.
+
+4. **Get API Key:** visit https://newsapi.org/ and get an API Key.
+
+5. **Run the App:** Now, you can run the app on your connected device or emulator.
+
+## Contact
+
+If you have any questions or suggestions regarding News Wave app, feel free to contact us at yaman.almobayed@hotmail.com
